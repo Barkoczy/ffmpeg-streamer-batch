@@ -1,0 +1,3 @@
+.\play.bat
+.\play.bat 1080p
+.\play.bat 1080p ".\videos"

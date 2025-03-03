@@ -1,0 +1,28 @@
+# Ignorovať dočasný zoznam vstupných súborov
+input_files.txt
+
+# Ignorovať playlist so zoznamom videí
+playlist.txt
+
+# Ignorovať priečinok s videami
+videos/
+!videos/.gitkeep
+
+# Ignorovať logy a výstupy ffmpeg
+*.log
+*.tmp
+*.mpg
+*.avi
+*.mov
+*.mkv
+*.mp4
+
+# Ignorovať výstupy Windows Batch skriptov
+*.bat~
+*.swp
+*.bak
+
+# Ignorovať systémové súbory
+Thumbs.db
+Desktop.ini
+.DS_Store
