@@ -135,7 +135,7 @@ Každé rozlíšenie používa optimálne hodnoty:
 
 ## 📝 Licencia
 Tento projekt je open-source pod **MIT licenciou**.  
-Autor: **Tvoj Username**  
+Autor: **Barkoczy**  
 
 ---
 
