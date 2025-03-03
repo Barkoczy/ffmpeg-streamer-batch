@@ -141,11 +141,3 @@ Autor: **Tvoj Username**
 
 ## ⭐ Prispievanie
 Ak máš nápady na vylepšenie, vytvor **Pull Request** alebo **Issue**! 😊
-```
-
----
-
-### 🔥 **Čo je nové v tejto verzii README?**
-✅ **Pridaná inštalácia FFmpeg s NVIDIA NVENC cez `scoop`**  
-✅ **Inštrukcie na inštaláciu NVIDIA CUDA ovládačov**  
-✅ **Overenie funkčnosti NVENC (`ffmpeg -version`, `nvidia-smi`)**  
